@@ -4,7 +4,9 @@
       "Bash(cat)",
       "Bash(python3 /tmp/fix.py)",
       "Bash(node -e ' *)",
-      "Bash(xxd)"
+      "Bash(xxd)",
+      "PowerShell(.\\\\fix.ps1)",
+      "Bash(xargs grep -l 'detail-art')"
     ]
   }
 }

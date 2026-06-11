@@ -341,12 +341,13 @@ code { background: rgba(124,45,31,.1); padding: .12rem .28rem; border-radius: .3
   border-radius: 16px;
 }
 .ai-reference__link {
-  display: grid;
-  grid-template-columns: 86px 1fr;
-  gap: .75rem;
+  display: flex;
+  flex-direction: column;
   align-items: center;
+  gap: .35rem;
   color: var(--ink);
   text-decoration: none;
+  text-align: center;
 }
 .ai-reference__link:hover,
 .ai-reference__link:focus-visible {
@@ -354,8 +355,8 @@ code { background: rgba(124,45,31,.1); padding: .12rem .28rem; border-radius: .3
   outline-offset: 4px;
 }
 .ai-reference img {
-  width: 86px;
-  height: 96px;
+  width: 120px;
+  height: 120px;
   object-fit: cover;
   object-position: top center;
   border-radius: 12px;
@@ -364,7 +365,6 @@ code { background: rgba(124,45,31,.1); padding: .12rem .28rem; border-radius: .3
 }
 .ai-reference small {
   display: block;
-  margin-top: .15rem;
   color: var(--muted);
   font-size: .82rem;
 }
@@ -433,8 +433,7 @@ code { background: rgba(124,45,31,.1); padding: .12rem .28rem; border-radius: .3
 }
 @media (max-width: 860px) {
   .detail-grid { grid-template-columns: 1fr; }
-  .ai-reference__link { grid-template-columns: 72px 1fr; }
-  .ai-reference img { width: 72px; height: 84px; }
+  .ai-reference img { width: 96px; height: 96px; }
 }
 @media print {
   .ai-reference, .ai-usage-note, .back-links { display: none !important; }

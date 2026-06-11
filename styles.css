@@ -182,13 +182,14 @@ th { width: 230px; color: var(--wine); }
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
   gap: .85rem;
-  padding-left: 1.2rem;
+  padding-left: 0;
 }
 .sources-list li {
   background: rgba(255,250,241,.96);
   border: 1px solid rgba(124,45,31,.18);
   border-radius: 16px;
   padding: .9rem;
+  margin-left: 1.8rem;
 }
 .sources-list span { color: var(--muted); font-size: .93rem; }
 .publish-box { padding: 1.2rem; }

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat)",
+      "Bash(python3 /tmp/fix.py)",
+      "Bash(node -e ' *)",
+      "Bash(xxd)"
+    ]
+  }
+}

@@ -6,7 +6,8 @@
       "Bash(node -e ' *)",
       "Bash(xxd)",
       "PowerShell(.\\\\fix.ps1)",
-      "Bash(xargs grep -l 'detail-art')"
+      "Bash(xargs grep -l 'detail-art')",
+      "Bash(grep -o '<div class=\"ai-reference\">.\\\\{0,250\\\\}' index.html)"
     ]
   }
 }

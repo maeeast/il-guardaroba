@@ -355,8 +355,8 @@ code { background: rgba(124,45,31,.1); padding: .12rem .28rem; border-radius: .3
   outline-offset: 4px;
 }
 .ai-reference img {
-  width: 120px;
-  height: 120px;
+  width: 240px;
+  height: 240px;
   object-fit: cover;
   object-position: top center;
   border-radius: 12px;
@@ -433,7 +433,7 @@ code { background: rgba(124,45,31,.1); padding: .12rem .28rem; border-radius: .3
 }
 @media (max-width: 860px) {
   .detail-grid { grid-template-columns: 1fr; }
-  .ai-reference img { width: 96px; height: 96px; }
+  .ai-reference img { width: 180px; height: 180px; }
 }
 @media print {
   .ai-reference, .ai-usage-note, .back-links { display: none !important; }

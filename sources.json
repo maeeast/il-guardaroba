@@ -1,0 +1,65 @@
+{
+  "birth_mary": {
+    "short": "Ghirlandaio, Birth of Mary",
+    "label": "Domenico Ghirlandaio, Birth of Mary, Tornabuoni Chapel, Santa Maria Novella, Florence, 1486\u20131490",
+    "page": "https://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg",
+    "file": "Birth of St Mary in Santa Maria Novella in Firenze by Domenico Ghirlandaio.jpg",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  },
+  "marriage_mary": {
+    "short": "Ghirlandaio, Marriage of Mary",
+    "label": "Domenico Ghirlandaio, Marriage of Mary, Tornabuoni Chapel, Santa Maria Novella, Florence, 1486\u20131490",
+    "page": "https://commons.wikimedia.org/wiki/File:Domenico_Ghirlandaio_-_Marriage_of_Mary_-_WGA8838.jpg",
+    "file": "Domenico Ghirlandaio - Marriage of Mary - WGA8838.jpg",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  },
+  "zacharias": {
+    "short": "Ghirlandaio, Zacharias detail",
+    "label": "Domenico Ghirlandaio, Angel Appearing to Zacharias (detail), Tornabuoni Chapel, 1486\u20131490",
+    "page": "https://commons.wikimedia.org/wiki/File:Angel_Appearing_to_Zacharias_(detail)_-_1486-90.JPG",
+    "file": "Angel Appearing to Zacharias (detail) - 1486-90.JPG",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  },
+  "giovanna": {
+    "short": "Ghirlandaio, Giovanna Tornabuoni",
+    "label": "Domenico Ghirlandaio, Giovanna Tornabuoni, c.1488, cropped image",
+    "page": "https://commons.wikimedia.org/wiki/File:Giovanna_Tornabuoni_(square_crop).jpg",
+    "file": "Giovanna Tornabuoni (square crop).jpg",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  },
+  "pala": {
+    "short": "Master of the Pala Sforzesca",
+    "label": "Master of the Pala Sforzesca, Pala Sforzesca, Milan, about 1496\u20131497",
+    "page": "https://commons.wikimedia.org/wiki/File:Pala_sforzesca.jpg",
+    "file": "Pala sforzesca.jpg",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  },
+  "carpaccio": {
+    "short": "Carpaccio, Two Venetian Ladies",
+    "label": "Vittore Carpaccio, Two Venetian Ladies, Museo Correr, Venice, c.1500\u20131505",
+    "page": "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_Two_Venetian_Ladies_1500.jpg",
+    "file": "Vittore_Carpaccio_Two_Venetian_Ladies_1500.jpg",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  },
+  "bellini": {
+    "short": "Gentile Bellini, Procession in St. Mark\u2019s Square",
+    "label": "Gentile Bellini, Procession in St. Mark\u2019s Square, Venice, 1496",
+    "page": "https://commons.wikimedia.org/wiki/File:Gentile_Bellini_-_Procession_in_St._Mark%27s_Square_(Galleria_dell%27Accademia,_Venice).jpg",
+    "file": "Gentile_Bellini_-_Procession_in_St._Mark's_Square_(Galleria_dell'Accademia,_Venice).jpg",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  },
+  "cossa_march": {
+    "short": "Francesco del Cossa, March",
+    "label": "Francesco del Cossa, March, Hall of the Months, Palazzo Schifanoia, Ferrara, 1469\u20131470",
+    "page": "https://commons.wikimedia.org/wiki/File:Francesco_del_Cossa,_March,_fresco,_Palazzo_Schifanoia,_1470.jpg",
+    "file": "Francesco del Cossa, March, fresco, Palazzo Schifanoia, 1470.jpg",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  },
+  "cossa_april": {
+    "short": "Francesco del Cossa, Allegory of April",
+    "label": "Francesco del Cossa, Ercole de\u2019 Roberti, and Gherardo di Andrea Fiorini, Allegory of April, Palazzo Schifanoia, Ferrara, around 1469",
+    "page": "https://commons.wikimedia.org/wiki/File:Allegory_of_April_-_Francesco_del_Cossa_-_1.jpg",
+    "file": "Allegory of April - Francesco del Cossa - 1.jpg",
+    "license": "Public domain reproduction via Wikimedia Commons"
+  }
+}
